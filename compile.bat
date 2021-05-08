@@ -1,0 +1,1 @@
+gcc main.c propogation.c utils.c layers.c -o main -Wall -Werror -O3 -lm  -funroll-all-loops
