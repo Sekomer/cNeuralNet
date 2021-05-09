@@ -1,2 +1,5 @@
 # cNeuralNet
-Deep Neural Network implementation in C
+
+In progress
+
+(Cuda in the future)
